@@ -1,0 +1,4 @@
+# Ignorar todos os arquivos CSV dentro da pasta data
+data/*.csv 
+
+# Indiquei a pasta e ingorando todos os arquivos com extensão "csv"
