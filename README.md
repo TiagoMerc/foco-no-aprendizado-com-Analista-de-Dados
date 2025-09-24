@@ -89,7 +89,7 @@ ______
 
 **Print da tela**
 
-![Resultado do Painel dia 24/09/2025](src/images/Captura de tela 2025-09-24 141948.png)
+![Resultado do Painel dia 24/09/2025](src/images/Captura%20de%20tela%202025-09-24%20141948.png)
 
 ---
 
