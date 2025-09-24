@@ -88,7 +88,7 @@ ______
 - Código modular e pronto para expansão (ex: filtros, novos gráficos, exportação de dados etc).
 
 **Print da tela**
-![Resultado do Painel dia 24/09/2025](C:\Users\merc-\OneDrive\Documentos\Logo Ali\2025\Analise_Dados\src\images\Captura de tela 2025-09-24 141948.png)
+![Resultado do Painel dia 24/09/2025]('C:\Users\merc-\OneDrive\Documentos\Logo Ali\2025\Analise_Dados\src\images\Captura de tela 2025-09-24 141948.png')
 
 ---
 

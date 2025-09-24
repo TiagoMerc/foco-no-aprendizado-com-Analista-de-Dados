@@ -1,3 +1,5 @@
+# Estrutura básica de dependências para o projeto
+
 dash
 plotly
 pandas
